@@ -14,10 +14,10 @@ The app extracts structured JSON data from the description, identifies the car t
 - Email sender (sends structured JSON + image to Gmail).
 
 ### Setup Instructions
-1- Clone the Repository
-2- Create a Virtual Environment
-3- Install Dependencies: pip install -r requirements.txt
-4- Configure Environment Variables: Copy .env.example → .env and update values
+1- Clone the Repository  
+2- Create a Virtual Environment  
+3- Install Dependencies: pip install -r requirements.txt  
+4- Configure Environment Variables: Copy .env.example → .env and update values  
 5- Run the Application: streamlit run ui_app.py
 
 ### Usage Guide
