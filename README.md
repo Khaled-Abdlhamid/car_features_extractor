@@ -21,8 +21,8 @@ The app extracts structured JSON data from the description, identifies the car t
 5- Run the Application: streamlit run ui_app.py
 
 ### Usage Guide
-1- Upload Car Image.
-2- Paste Car Description.
+1- Upload Car Image.  
+2- Paste Car Description.  
 3- Click "Extract JSON" or "Send to Gmail"
 
 ### Solution Design
