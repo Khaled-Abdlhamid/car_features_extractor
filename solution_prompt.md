@@ -5,7 +5,7 @@ here is what i want you to implement:
 1- a simple streamlit app that accepts the image and text description from the user.  
 2- a python module that parses the text and uses GPT-4o-mini to extract the data in the following JSON format
 
-'''
+'''  
 {
   "car": {
     "body_type": "string",
@@ -30,6 +30,6 @@ here is what i want you to implement:
       "currency": "string"
     }
   }
-}
+}  
 '''  
 3- a python module that takes the output JSON and the image and sends them to a certain gmail address.
